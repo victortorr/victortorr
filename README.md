@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@victorsa.adv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-torres-6ab533256/) [![GitHub](https://w7.pngwing.com/pngs/8/421/png-transparent-github-computer-icons-icon-design-desktop-github-mammal-cat-like-mammal-carnivoran-thumbnail.png)](https://github.com/victortorr)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@victorsa.adv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-torres-6ab533256/) [![GitHub]([https://w7.pngwing.com/pngs/8/421/png-transparent-github-computer-icons-icon-design-desktop-github-mammal-cat-like-mammal-carnivoran-thumbnail.png](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com/victortorr)]
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
