@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @victortorr<br>👀 I’m interested in Front-end <br>🌱 I’m currently learning HTML and JAVASCRIPT.<br>
+👋 Hi, I’m @victortorr<br>👀 I’m interested in Front-end <br>🌱 I’m currently learning HTML, CSS, JAVASCRIPT and REACT.<br>
 
 
 ## 🌐 Socials:
